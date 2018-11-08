@@ -17,3 +17,9 @@ git push -u origin master第一次推送master分支的所有内容
 git push origin master推送最新修改
 
 git clone origin git@server-name:path/repo-name.git克隆远程库
+
+git branch查看当前分支
+git branch <branch>创建分支
+git checkout <branch>切换到该分支
+git checkout -b <branch>创建并切换到该分支
+
