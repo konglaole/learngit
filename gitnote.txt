@@ -20,6 +20,8 @@ git clone origin git@server-name:path/repo-name.git克隆远程库
 
 git branch查看当前分支
 git branch <branch>创建分支
+git branch -d <branch>删除该分支
 git checkout <branch>切换到该分支
 git checkout -b <branch>创建并切换到该分支
+git merge <branch>合并该分支
 
